@@ -3359,6 +3359,7 @@ dependencies = [
  "pinwheel",
  "serde",
  "serde_json",
+ "sqlx",
  "sunfish",
  "tangram_app_common",
  "tangram_app_layouts",
